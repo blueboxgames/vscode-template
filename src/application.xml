@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/31.0">
+	<id>com.mycompany.mygame</id>
+	<versionNumber>1.0.0</versionNumber>
+	<filename>Main</filename>
+	<name>First Game</name>
+	<initialWindow>
+		<content>[Path to content will be replaced by Visual Studio Code]</content>
+		<visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <renderMode>direct</renderMode>
+    <aspectRatio>portrait</aspectRatio>
+    <autoOrients>true</autoOrients>
+	</initialWindow>
+	<extensions>
+    <extensionID>com.gerantech.extensions.nativeabilities</extensionID>
+  </extensions>
+</application>

@@ -1,7 +1,5 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
+[Dd]ist/
 [Bb]in/
 
 # Other files and folders
