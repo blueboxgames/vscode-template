@@ -4,6 +4,16 @@
 		{
 			"type": "swf",
 			"request": "launch",
+			"name": "Launch AIR mobile",
+			"profile": "mobileDevice",
+			"screensize": "Droid",
+			"screenDPI": 326,
+			"versionPlatform": "AND",
+			"extdir": "bin/.as3mxml-unpackaged-anes"
+		},
+		{
+			"type": "swf",
+			"request": "launch",
 			"name": "Launch SWF",
 			// "profile": "mobileDevice",
 			// "args": "-custom-arg=hello -another",
