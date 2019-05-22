@@ -3,6 +3,7 @@
 * [Adobe AIR 32.0](https://www.adobe.com/devnet/air/air-sdk-download.html)
 * [VSCode](https://code.visualstudio.com/download)
 * [ActionScript & MXML extension for Vscode](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas)
+* JRE 8
 
 # Build
 After you run VSCode with ActionScript & MXML extension, click on `No SDK`
