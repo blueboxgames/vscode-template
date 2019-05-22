@@ -5,9 +5,9 @@
 * [ActionScript & MXML extension for Vscode](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas)
 
 # Build
-After you run VSCode with ActionScript & MXML extension, it will ask you to
-configure SDK, use Configure SDK > Add More SDK to list and browse for
-AIR SDK extration path. then click on No SDK at the bottom and Select
+After you run VSCode with ActionScript & MXML extension, click on `No SDK`
+on bottom right of VSCode then use Add More SDK to list and browse for
+AIR SDK extration path. then click on `No SDK` at the bottom and Select
 Your Air SDK.
 
 Then use `Ctrl + Shift + B` to fetch tasks.
