@@ -1,11 +1,11 @@
 # Prequisities
 
-* [Adobe AIR 32.0](https://www.adobe.com/devnet/air/air-sdk-download.html)
------
-After Adobe AIR has been downloaded extract it in a location: e.g. `C:\SDK\AIR32\`
-* [VSCode](https://code.visualstudio.com/download)
-* [ActionScript & MXML extension for Vscode](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas) : Install this after VSCode has been installed and run for first time.
-* JRE (Java Runtime Environment) 8
+# Adobe Air
+* Download [Adobe AIR 32.0](https://www.adobe.com/devnet/air/air-sdk-download.html) and extract it in a location: e.g. `C:\SDK\AIR32\`
+
+* Install JRE (Java Runtime Environment) 8 and [Setting the JAVA_HOME Variable in Windows](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+* Downlad and install [VSCode](https://code.visualstudio.com/download) and run after installation.
+* Install [ActionScript & MXML extension for Vscode](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas).
 
 # VSCode Setup
 After you run VSCode with ActionScript & MXML extension, click on `No SDK`
