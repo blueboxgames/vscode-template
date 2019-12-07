@@ -15,9 +15,9 @@
 	},
 	"application": "src/application.xml",
 	"files": [
-		"src/Main.as",
+		"src/Main.as"
 	],
-	// "copySourcePathAssets": true,
+	"copySourcePathAssets": true,
 	"airOptions": {
 		"extdir": [
 			"exts"
