@@ -3,6 +3,13 @@
 	"configurations": [
 		{
 			"type": "swf",
+			"request": "attach",
+			"name": "Install & Attach Adobe AIR (Android)",
+			"connect": true,
+			"platform": "android"
+		},
+		{
+			"type": "swf",
 			"request": "launch",
 			"name": "Launch AIR mobile",
 			"profile": "mobileDevice",
@@ -10,29 +17,6 @@
 			"screenDPI": 326,
 			"versionPlatform": "AND",
 			"extdir": "bin/.as3mxml-unpackaged-anes"
-		},
-		{
-			"type": "swf",
-			"request": "launch",
-			"name": "Launch SWF",
-			// "profile": "mobileDevice",
-			// "args": "-custom-arg=hello -another",
-			// "extdir": "path/to/unpackaged_anes",
-			// "screenDPI": 445,
-			// "screensize": "480x940:490x980",
-			// "versionPlatform": "AND"
-		},
-		{
-			"type": "swf",
-			"request": "attach",
-			"name": "Attach SWF"
-		},
-		{
-			"type": "swf",
-			"request": "attach",
-			"name": "Install & Attach Adobe AIR (Android)",
-			"connect": true,
-			"platform": "android"
 		}
 	]
 }
